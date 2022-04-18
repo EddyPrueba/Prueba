@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StartFighter-0008.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\StartFighterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\NaveJugador.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\NaveJugadorPlayerController.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\StartFighter.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\StartFighterGameModeBase.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\NaveJugador.gen.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\NaveJugadorPlayerController.gen.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\StartFighter.init.gen.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\StartFighterGameModeBase.gen.cpp.obj"
+"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\Default.rc2.res"
+/OUT:"E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\UE4Editor-StartFighter-0008.lib"

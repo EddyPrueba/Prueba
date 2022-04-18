@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\USFX\\3er Semestre\\SIS457 - S3\\Trabajos\\StartFighter\\Source\\StartFighter\\StartFighter.Build.cs",
+		"E:\\USFX\\3er Semestre\\SIS457 - S3\\Trabajos\\StartFighter\\Source\\StartFighter.Target.cs",
+		"E:\\USFX\\3er Semestre\\SIS457 - S3\\Trabajos\\StartFighter\\Source\\StartFighterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,5 @@
+E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\Definitions.StartFighter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Source\StartFighter/NaveJugador.h
+E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Inc\StartFighter\NaveJugador.generated.h

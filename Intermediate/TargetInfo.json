@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StartFighter",
+			"Path": "E:\\USFX\\3er Semestre\\SIS457 - S3\\Trabajos\\StartFighter\\Source\\StartFighter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StartFighterEditor",
+			"Path": "E:\\USFX\\3er Semestre\\SIS457 - S3\\Trabajos\\StartFighter\\Source\\StartFighterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

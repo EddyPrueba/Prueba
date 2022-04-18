@@ -1,0 +1,2 @@
+E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Intermediate\Build\Win64\UE4Editor\Development\StartFighter\Definitions.StartFighter.h
+E:\USFX\3er Semestre\SIS457 - S3\Trabajos\StartFighter\Source\StartFighter\StartFighter.h
